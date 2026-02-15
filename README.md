@@ -1,6 +1,6 @@
 # Email Generator Agent
 
-Turn your notes or voice notes and casual messages into polished emails, no typing, no overthinking. Perfect for busy students, club leads, and small business owners who need to follow up fast and sound great doing it.
+Turn your notes or voice notes and casual messages into polished emails, no overthinking. Perfect for busy students, club leads, and small business owners who need to follow up fast and sound great doing it.
 
 ## What It Does
 
